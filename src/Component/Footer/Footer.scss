@@ -1,0 +1,28 @@
+footer{
+    text-align: center;
+    padding: 20px 0;
+
+position: relative;
+    &::before{
+        content: '';
+        background-color: #000;
+ 
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    opacity: .9;
+    
+    }
+    .footer-container{
+        z-index: 1;
+    }
+    p{
+        font-size: 15px;
+        color: #ffffff;
+        z-index: 3;
+        
+    }
+}
