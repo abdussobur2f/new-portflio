@@ -165,7 +165,7 @@ const Home = () => {
                   Services
                 </h3>
                 <p className="subtitle-a">
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                  I'm always try to my best work for my client
                 </p>
                 <div className="line-mf"></div>
               </div>
@@ -263,7 +263,7 @@ const Home = () => {
 
 
       <section id="work" className="portfolio-mf sect-pt4 route">
-        <div className="container">
+        <div className="container-xxl">
           <div className="row mb-5">
             <div className="col-sm-12">
               <div className="title-box text-center">
@@ -271,7 +271,7 @@ const Home = () => {
                   Portfolio
                 </h3>
                 <p className="subtitle-a">
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                    my latest working project here
                 </p>
                 <div className="line-mf"></div>
               </div>
@@ -333,7 +333,7 @@ const Home = () => {
       <section id="contact" className="w-100 overflow-hidden  "  >
         <div className="backImg"></div>
 
-        <div className="container mt-5 wrapper_container ">
+        <div className="container-xxl mt-5 wrapper_container ">
           <div className="row">
             <div className="col-sm-12">
               <div className="contact-mf">
